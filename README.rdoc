@@ -1,0 +1,3 @@
+== KIEI-925 Poker Project
+
+Replace views/poker/deal.html.erb to implement a five-card hand of poker!
